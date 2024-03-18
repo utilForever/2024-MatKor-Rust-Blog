@@ -6,7 +6,7 @@
 
 - Week 0 (3/18) [[Lecture]](./1%20-%20Lecture/240318%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%200.pdf)
   - Introduction
-- Week 1 (3/18)
+- Week 1 (3/18) [[Assignment]](./3%20-%20Assignment/240318%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%201/)
   - Hello, World
     - What is Rust?
     - Benefits of Rust
