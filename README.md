@@ -29,6 +29,8 @@
     - Tuples
     - Array Iteration
     - Patterns and Destructuring
+  - Assignment #1
+- Week 2 (3/25)
   - References
     - Shared References
     - Exclusive References
@@ -41,13 +43,35 @@
     - Static
     - Const
     - Type Aliases
-  - Assignment #1
-- Week 2 (TBA)
   - Pattern Matching
+    - Matching Values
+    - Destructuring
+    - Let Control Flow
   - Methods and Traits
+    - Methods
+    - Traits
+    - Deriving
   - Generics
+    - Generic Functions
+    - Generic Data Types
+    - Generic Traits
+    - `impl` Trait
   - Standard Library Types
+    - Standard Library
+    - Documentation
+    - `Option`
+    - `Result`
+    - `String`
+    - `Vec`
+    - `HashMap`
   - Standard Library Traits
+    - Comparisons
+    - Operators
+    - `From` and `Into`
+    - Casting
+    - `Read` and `Write`
+    - `Default`, struct update syntax
+    - Closures
   - Assignment #2
 - Week 3 (TBA)
   - Memory Management
