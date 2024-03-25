@@ -30,7 +30,7 @@
     - Array Iteration
     - Patterns and Destructuring
   - Assignment #1
-- Week 2 (3/25)
+- Week 2 (3/25) [[Assignment]](./3%20-%20Assignment/240325%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%202/)
   - References
     - Shared References
     - Exclusive References
