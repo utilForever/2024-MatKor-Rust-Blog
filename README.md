@@ -99,10 +99,31 @@
   - Assignment #4
 - Week 5 (4/29)
   - Iterators
+    - `Iterator`
+    - `IntoIterator`
+    - `FromIterator`
   - Modules
+    - Modules
+    - Filesystem Hierarchy
+    - Visibility
+    - `use`, `super`, `self`
   - Testing
+    - Test Modules
+    - Other Types of Tests
+    - Compiler Lints and Clippy
   - Error Handling
+    - Panics
+    - Try Operator
+    - Try Conversions
+    - `Error` Trait
+    - `thiserror` and `anyhow`
   - Unsafe Rust
+    - Unsafe
+    - Dereferencing Raw Pointers
+    - Mutable Static Variables
+    - Unions
+    - Unsafe Functions
+    - Unsafe Traits
   - Assignment #5
 - Week 6 (TBA)
   - Threads
