@@ -97,7 +97,7 @@
     - Lifetime Elision
     - Struct Lifetimes
   - Assignment #4
-- Week 5 (4/29)
+- Week 5 (4/29) [[Assignment]](./3%20-%20Assignment/240429%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%205/)
   - Iterators
     - `Iterator`
     - `IntoIterator`
