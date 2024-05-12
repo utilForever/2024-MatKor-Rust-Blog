@@ -125,7 +125,25 @@
     - Unsafe Functions
     - Unsafe Traits
   - Assignment #5
-- Week 6 (TBA)
+- Week 6 (5/13)
+  - Closures
+    - Capturing Variables
+      - Closures that Borrow
+      - Closures that Steal
+    - Function and Closure Types
+    - Closure Performance
+    - Closures and Safety
+      - Closures that Kill
+      - `FnOnce`
+      - `FnMut`
+      - `Copy` and `Clone` for Closures
+    - Callbacks
+    - Using Closures Effectively
+  - Assignment #6
+- Week 7 (5/20)
+  - Macros
+  - Assignment #7
+- Week 8 (TBA)
   - Threads
   - Channels
   - Send and Async
@@ -133,15 +151,11 @@
   - Async Basics
   - Control Flow
   - Pitfalls
-  - Assignment #6
-- Week 7 (TBA)
-  - Closures
-  - Macros
-  - Assignment #7
-- Week 8 (TBA)
+  - Assignment #8
+- Week 9 (TBA)
   - Foreign Function Interface (FFI)
   - Rust and WebAssembly
-  - Assignment #8
+  - Assignment #9
 
 ## References
 
