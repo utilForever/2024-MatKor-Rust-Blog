@@ -140,7 +140,7 @@
     - Callbacks
     - Using Closures Effectively
   - Assignment #6
-- Week 7 (5/20)
+- Week 7 (5/20) [[Lecture]](./1%20-%20Lecture/240520%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%207.pdf)
   - Macros
     - Macro Basics
       - Basics of Macro Expansion
