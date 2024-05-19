@@ -125,7 +125,7 @@
     - Unsafe Functions
     - Unsafe Traits
   - Assignment #5
-- Week 6 (5/13) [[Lecture]](./1%20-%20Lecture/240513%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%206.pdf) [[Assignment]](./3%20-%20Assignment/240513%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%206/)
+- Week 6 (5/13) [[Lecture]](./1%20-%20Lecture/240513%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%206.pdf) [[Assignment]](./3%20-%20Assignment/240513%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%206/) [[Solution]](./4%20-%20Solution/240513%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%206/)
   - Closures
     - Capturing Variables
       - Closures that Borrow
