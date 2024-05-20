@@ -157,19 +157,16 @@
     - Avoiding Syntax Errors During Matching
     - Beyond macro_rules!
   - Assignment #7
-- Week 8 (TBA)
-  - Threads
-  - Channels
-  - Send and Async
-  - Shared State
-  - Async Basics
-  - Control Flow
-  - Pitfalls
+- Week 8 (5/27)
+  - Concurrency
   - Assignment #8
-- Week 9 (TBA)
+- Week 9 (6/3)
+  - Asynchronous Programming
+  - Assignment #9
+- Week 10 (TBA)
   - Foreign Function Interface (FFI)
   - Rust and WebAssembly
-  - Assignment #9
+  - Assignment #10
 
 ## References
 
