@@ -81,12 +81,12 @@
     - Approaches to Memory Management
     - Onwership
     - Move Semantics
-    - Clone
-    - Copy Types
-    - Drop
+    - `Clone`
+    - `Copy` Types
+    - `Drop`
   - Smart Pointers
-    - Box
-    - Rc
+    - `Box`
+    - `Rc`
     - Trait Objects
   - Borrowing
     - Borrowing a Value
@@ -159,6 +159,19 @@
   - Assignment #7
 - Week 8 (5/27) [[Lecture]](./1%20-%20Lecture/240527%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%208.pdf)
   - Concurrency, Part 1
+    - Fork-Join Parallelism
+      - `spawn` and `join`
+      - Error Handling Across Threads
+      - Sharing Immutable Data Across Threads
+      - `Rayon`
+    - Channels
+      - Sending Values
+      - Receiving Values
+      - Running the Pipeline
+      - Channel Features and Performance
+      - Thread Safety: `Send` and `Sync`
+      - Piping Almost Any Iterator to a Channel
+      - Beyond Pipelines
   - Assignment #8
 - Week 9 (6/3)
   - Concurrency, Part 2
