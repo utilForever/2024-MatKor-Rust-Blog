@@ -158,15 +158,21 @@
     - Beyond macro_rules!
   - Assignment #7
 - Week 8 (5/27)
-  - Concurrency
+  - Concurrency, Part 1
   - Assignment #8
 - Week 9 (6/3)
-  - Asynchronous Programming
+  - Concurrency, Part 2
   - Assignment #9
+- Week 10 (TBA)
+  - Asynchronous Programming, Part 1
+  - Assignment #10
+- Week 11 (TBA)
+  - Asynchronous Programming, Part 2
+  - Assignment #11
 - Week 10 (TBA)
   - Foreign Function Interface (FFI)
   - Rust and WebAssembly
-  - Assignment #10
+  - Assignment #12
 
 ## References
 
