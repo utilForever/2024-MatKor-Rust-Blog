@@ -157,7 +157,7 @@
     - Avoiding Syntax Errors During Matching
     - Beyond macro_rules!
   - Assignment #7
-- Week 8 (5/27) [[Lecture]](./1%20-%20Lecture/240527%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%208.pdf) [[Example]](./2%20-%20Example/240527%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%208/) [[Assignment]](./3%20-%20Assignment/240527%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%208/)
+- Week 8 (5/27) [[Lecture]](./1%20-%20Lecture/240527%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%208.pdf) [[Example]](./2%20-%20Example/240527%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%208/) [[Assignment]](./3%20-%20Assignment/240527%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%208/) [[Solution]](./4%20-%20Solution/240527%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%208/)
   - Concurrency, Part 1
     - Fork-Join Parallelism
       - `spawn` and `join`
