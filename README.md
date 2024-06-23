@@ -188,7 +188,7 @@
       - Atomics
       - Global Variables
   - Assignment #9
-- Week 10 (6/24)
+- Week 10 (6/24) [[Lecture]](./1%20-%20Lecture/240624%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%2010.pdf)
   - Asynchronous Programming, Part 1
     - From Synchronous to Asynchronous
       - Futures
