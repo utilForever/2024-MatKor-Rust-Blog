@@ -173,7 +173,7 @@
       - Piping Almost Any Iterator to a Channel
       - Beyond Pipelines
   - Assignment #8
-- Week 9 (6/3) [[Lecture]](./1%20-%20Lecture/240603%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%209.pdf) [[Assignment]](./3%20-%20Assignment/240603%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%209/)
+- Week 9 (6/3) [[Lecture]](./1%20-%20Lecture/240603%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%209.pdf) [[Assignment]](./3%20-%20Assignment/240603%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%209/) [[Solution]](./4%20-%20Solution/240603%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%209/)
   - Concurrency, Part 2
     - Shared Mutable State
       - What Is a Mutex?
