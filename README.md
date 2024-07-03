@@ -202,9 +202,13 @@
       - Long Running Computations: `yield_now` and `spawn_blocking`
       - Comparing Asynchronous Designs
       - A Real Asynchronous HTTP Client
-  - Assignment #10
 - Week 11 (TBA)
   - Asynchronous Programming, Part 2
+    - From Synchronous to Asynchronous
+      - But Does Your Future Implement `Send`?
+      - Long Running Computations: `yield_now` and `spawn_blocking`
+      - Comparing Asynchronous Designs
+      - A Real Asynchronous HTTP Client
   - Assignment #11
 - Week 10 (TBA)
   - Foreign Function Interface (FFI)
