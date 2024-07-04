@@ -188,7 +188,7 @@
       - Atomics
       - Global Variables
   - Assignment #9
-- Week 10 (7/1) [[Lecture]](./1%20-%20Lecture/240701%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%2010.pdf) [[Example]](./2%20-%20Example/240701%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%2010/)
+- Week 10 (7/1) [[Lecture]](./1%20-%20Lecture/240701%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%2010.pdf)
   - Asynchronous Programming, Part 1
     - From Synchronous to Asynchronous
       - Futures
@@ -202,18 +202,27 @@
       - Long Running Computations: `yield_now` and `spawn_blocking`
       - Comparing Asynchronous Designs
       - A Real Asynchronous HTTP Client
-- Week 11 (TBA)
+- Week 11 (7/10) [[Example]](./2%20-%20Example/240701%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%2010/)
   - Asynchronous Programming, Part 2
     - From Synchronous to Asynchronous
       - But Does Your Future Implement `Send`?
       - Long Running Computations: `yield_now` and `spawn_blocking`
       - Comparing Asynchronous Designs
       - A Real Asynchronous HTTP Client
-  - Assignment #11
-- Week 10 (TBA)
+    - An Asynchronous Client and Server
+      - Error and Result Types
+      - The Protocol
+      - Talking User Input: Asynchronous Streams
+      - Sending Packets
+      - Receving Packets: More Asynchronous Streams
+      - The Client's Main Function
+- Week 12 (TBA)
+  - Asynchronous Programming, Part 3
+  - Assignment #10
+- Week 13 (TBA)
   - Foreign Function Interface (FFI)
   - Rust and WebAssembly
-  - Assignment #12
+  - Assignment #11
 
 ## References
 
