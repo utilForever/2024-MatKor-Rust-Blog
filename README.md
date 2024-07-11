@@ -202,7 +202,7 @@
       - Long Running Computations: `yield_now` and `spawn_blocking`
       - Comparing Asynchronous Designs
       - A Real Asynchronous HTTP Client
-- Week 11 (7/10) [[Lecture]](./1%20-%20Lecture/240710%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%2011.pdf) [[Example]](./2%20-%20Example/240701%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%2010/)
+- Week 11 (7/10) [[Lecture]](./1%20-%20Lecture/240710%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%2011.pdf) [[Example]](./2%20-%20Example/240710%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%2011/)
   - Asynchronous Programming, Part 2
     - From Synchronous to Asynchronous
       - But Does Your Future Implement `Send`?
