@@ -216,7 +216,7 @@
       - Sending Packets
       - Receving Packets: More Asynchronous Streams
       - The Client's Main Function
-- Week 12 (7/16)
+- Week 12 (7/16) [[Lecture]](./1%20-%20Lecture/240716%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%2012.pdf)
   - Asynchronous Programming, Part 3
     - An Asynchronous Client and Server
       - The Server's Main Function
