@@ -2,6 +2,10 @@
 
 2024-MatKor-Rust-Blog is the material(lecture notes, examples and assignments) repository for learning Rust programming language and making a simple blog at Korea University Club 'MatKor' in 2024 Spring.
 
+## Updates
+
+- 2024-10-01: Added new contents for lecture "Closures" and renewed Assignment #6 and its solution.
+
 ## Contents
 
 - Week 0 (3/18) [[Lecture]](./1%20-%20Lecture/240318%20-%20Rust%20Basic%20+%20Make%20a%20Blog,%20Week%200.pdf)
