@@ -5,6 +5,7 @@
 ## Updates
 
 - 2024-10-01: Added new contents for lecture "Closures" and renewed Assignment #6 and its solution.
+- 2024-10-07: Added new contents for lecture "Macros" and renewed Assignment #7 and its solution.
 
 ## Contents
 
